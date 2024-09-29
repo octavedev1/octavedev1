@@ -7,7 +7,7 @@ I’m a dedicated developer with a strong focus on building efficient, scalable,
 
 ### ⚡ Skills & Technologies:
 
-- **Languages**: JavaScript, TypeScript, Go
+- **Languages**: JavaScript, TypeScript, Go, python
 - **Frameworks**: Node.js, React, NestJS, Next.js
 - **Development Areas**:
   - **App Development**: From concept to deployment, crafting cross-platform mobile and web apps.
